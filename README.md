@@ -1,4 +1,4 @@
 # Front-End-project
 This is Myntra Clone for Front End.
 <br>
-Author - Nargis Khatun
+Author - Nargis Khatun (Nargis)
